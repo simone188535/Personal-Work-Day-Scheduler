@@ -34,7 +34,7 @@ $.each(workHours, function (index, workHour) {
   containerEl.append(`
     <div class="row time-block">
         <div class="col-1 hour d-flex align-items-center justify-content-center" data-work-hour="${workHour}">${workHourFormatted}</div>
-        <textarea class="col-10 description ${descriptionClassName}">${workTimeData?.description || ''}</textarea>
+        <textarea class="col-10 description text-dark ${descriptionClassName}">${workTimeData?.description || ''}</textarea>
         <div class="col-1 save-btn saveBtn d-flex align-items-center justify-content-center"><i class="fas fa-save"></i></div>
       </div>`);
 });
