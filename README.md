@@ -14,6 +14,6 @@ user.
 
 ## Deployed Links
 
-* [The URL of the deployed application.](https://simone188535.github.io/Array-and-String-Methods-Code-Quiz/)
+* [The URL of the deployed application.](https://simone188535.github.io/Personal-Work-Day-Scheduler/)
 
 * [The URL of the GitHub repository.](https://github.com/simone188535/Personal-Work-Day-Scheduler)
